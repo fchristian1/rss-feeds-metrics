@@ -19,8 +19,9 @@
 ## grafana
 - view the data
 
-in backend is the app
-in monitoring is the configfiles for the monitoring systems
+in backend is the node app
+
+in monitoring the configfiles for the monitoring systems
 
 ## here is a flow from the app
 
