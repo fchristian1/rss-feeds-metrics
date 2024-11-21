@@ -1,0 +1,16 @@
+[Unit]
+Description=Loki Log Collector
+After=network.target
+
+[Service]
+User=loki
+Group=loki
+Type=simple
+ExecStart=/usr/local/bin/loki   -config.file=/etc/loki/config.yml   -log.level=info
+Restart=always
+RestartSec=5
+StartLimitBurst=5
+StartLimitIntervalSec=60
+
+[Install]
+WantedBy=multi-user.target

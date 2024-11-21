@@ -25,7 +25,9 @@
   "contributors": [],
   "scripts": {
     "dev": "node --watch server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "start:pm2": "pm2 start server.js",
+    "stop:pm2": "pm2 stop server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
