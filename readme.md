@@ -37,4 +37,4 @@ in monitoring the configfiles for the monitoring systems
 
 ## here is a flow from the app
 
-![](./rss-feeds-metrics.png)
+![](./image.png)
