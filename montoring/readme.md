@@ -1,9 +1,9 @@
 ## to install all these services use my own install script wite menu
 
 ```bash
-	git clone https://github.com/fchristian1/grafana_and_friends_install_scripts.git
-    cd grafana_and_friends_install_scripts
-    ./install
+git clone https://github.com/fchristian1/grafana_and_friends_install_scripts.git
+cd grafana_and_friends_install_scripts
+./install
 ```
 
 ### service names
