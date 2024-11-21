@@ -1,0 +1,86 @@
+[
+    {
+        "url": "https://rss.sueddeutsche.de/rss/Alles",
+        "name": "Süddeutsche Zeitung - Alle Meldungen"
+    },
+    {
+        "url": "https://www.n-tv.de/politik/rss",
+        "name": "n-tv.de - Politik"
+    },
+    {
+        "url": "https://www.tagesschau.de/infoservices/alle-meldungen-100~rss2.xml",
+        "name": "tagesschau.de - Die Nachrichten der ARD"
+    },
+    {
+        "url": "https://rss.focus.de/fol/XML/rss_folnews.xml",
+        "name": "FOCUS Online - News"
+    },
+    {
+        "url": "https://newsfeed.zeit.de/index",
+        "name": "ZEIT ONLINE: Deutschland"
+    },
+    {
+        "url": "https://www.faz.net/rss/aktuell",
+        "name": "FAZ.NET Frankfurter Allgemeine Zeitung"
+    },
+    {
+        "url": "https://www.welt.de/feeds/latest.rss",
+        "name": "WELT RSS Feed | Welt.de Schlagzeilen via RSS Feed"
+    },
+    {
+        "url": "https://www.stern.de/feed/standard/all/",
+        "name": "stern.de"
+    },
+    {
+        "url": "https://www.spiegel.de/schlagzeilen/index.rss",
+        "name": "SPIEGEL Online Schlagzeilen"
+    },
+    {
+        "url": "https://www.heise.de/rss/heise.rdf",
+        "name": "heise RSS Feed - Newsticker"
+    },
+    {
+        "url": "https://www.reddit.com/.rss",
+        "name": "reddit"
+    },
+    {
+        "url": "https://www.reddit.com/r/news/.rss",
+        "name": "reddit news"
+    },
+    {
+        "url": "https://www.reddit.com/r/spacex/.rss",
+        "name": "reddit spacex"
+    },
+    {
+        "url": "https://www.reddit.com/r/popular/.rss",
+        "name": "reddit popular"
+    },
+    {
+        "url": "https://www.reddit.com/r/devops/.rss",
+        "name": "reddit devops"
+    },
+    {
+        "url": "https://www.reddit.com/r/javascript/.rss",
+        "name": "reddit javascript"
+    },
+    {
+        "url": "https://www.reddit.com/r/golang/.rss",
+        "name": "reddit golang"
+    },
+    {
+        "url": "https://www.reddit.com/r/node/.rss",
+        "name": "reddit node"
+    },
+    {
+        "url": "https://www.reddit.com/r/aws/.rss",
+        "name": "reddit aws"
+    },
+    {
+        "url": "https://www.reddit.com/r/AZURE/.rss",
+        "name": "reddit AZURE"
+    },
+    {
+        "url": "https://www.reddit.com/r/all/.rss",
+        "name": "reddit all"
+    }
+]
